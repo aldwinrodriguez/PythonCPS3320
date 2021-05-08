@@ -14,6 +14,7 @@
 
 ## Project #3
 
+- # <b> Important !!! </b> Make sure to create the encrypted file first, when asked what "command?" type "file" to setup file password
 - https://github.com/aldwinrodriguez/Passsy
 - <b>Description:</b> Robust password bank, stores encrypted password in an encrypted file.
-- <b> Important !!! </b> Make sure to create the encrypted file first, when asked what "command?" type "file" to setup file password
+
