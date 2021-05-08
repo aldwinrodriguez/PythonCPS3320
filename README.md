@@ -18,4 +18,4 @@
 - https://github.com/aldwinrodriguez/Passsy
 - <b>Description:</b> Robust password bank, stores encrypted password in an encrypted file.
 
-# Please contact my email if you are having difficulties running the programs: rodriald@kean.edu
+# Everything is working perfectly, but please contact my email if you are having difficulties running the programs: rodriald@kean.edu
